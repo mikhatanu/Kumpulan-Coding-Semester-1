@@ -1,0 +1,4 @@
+makan: makan makan makan
+minum: minum minum minum
+tembak: tembak tembak tembak
+pergi: pergi pergi pergi
